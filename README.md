@@ -10,4 +10,4 @@ It maintains a registry that can easily be used.  Try it out.
 Just create a pull request to hosts.txt    
 
     
-a service from <img src=https://rawgit.com/digplan/freejson.org/master/digplan-logo.png >
+a service from <img height:10px width:10px src=https://rawgit.com/digplan/freejson.org/master/digplan-logo.png >
